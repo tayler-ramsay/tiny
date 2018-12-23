@@ -4,7 +4,7 @@
     "description": "Removes all spaces from a string",
     "license": "MIT",
     "repository": "tayler-ramsay/tiny",
-    "main": "app.js",
+    "entry point": "app.js",
     "keywords": [
         "tiny",
         "npm",
